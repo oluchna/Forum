@@ -1,6 +1,6 @@
 from django.db import models
 import uuid
-
+from django.core.exceptions import ValidationError
 
 class Tag(models.Model):
 
@@ -32,10 +32,11 @@ class Post(models.Model):
 
     POST_TYPE = (
         ('t', 'Thread'), 
-        ('p', 'Post')
+        ('p', 'Post'), 
+        ('c', 'Comment')
     )
     post_type = models.CharField(max_length=1, choices=POST_TYPE, blank=False)
-    parent_type = models.CharField(max_length=1, choices=POST_TYPE, blank=True)
+    parent_type = models.CharField(max_length=1, choices=POST_TYPE, blank=True, null=True)
     
     parent_post = models.ForeignKey(
         'self',
@@ -45,4 +46,21 @@ class Post(models.Model):
         related_name='child_posts')
     
     image = models.ImageField(upload_to='images/', null=True, blank=True)
-    tag = models.ManyToManyField(Tag)
+    tag = models.ManyToManyField(Tag, blank=True)
+
+    def clean(self):
+        super().clean()
+
+        # Custom validation
+        # if self.post_type != 't' and self.tag.exists():
+        #     self.tag.clear()
+        #     raise ValidationError("Tags are only allowed for posts of type 'Thread'.")
+
+        
+        # Validate parent post
+        if self.post_type == 't' and self.parent_post is not None:
+            raise ValidationError("Posts of type 'Thread' cannot have a parent post.")
+        
+        # Validate parent type
+        if self.post_type == 't' and self.parent_type is not None:
+            raise ValidationError("Posts of type 'Thread' cannot have a parent type.")
