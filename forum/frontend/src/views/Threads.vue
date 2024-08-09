@@ -1,18 +1,15 @@
 <template>
-  <main>
-    <router-view></router-view>
-  </main>
+  <section>Thread</section>
 </template>
 
 <script lang="ts">
   export default {
-    name: "App",
+    name: "Threads",
   }
 </script>
 
-<style>
-  #app {
+<style scoped>
+  div {
     width: 100%;
-    margin: 0 auto;
   }
 </style>

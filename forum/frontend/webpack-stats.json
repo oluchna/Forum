@@ -1,33 +1,164 @@
 {
   "status": "done",
   "assets": {
+    "app.48f892b7410f36c2.hot-update.js": {
+      "name": "app.48f892b7410f36c2.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.48f892b7410f36c2.hot-update.js",
+      "publicPath": "/app.48f892b7410f36c2.hot-update.js"
+    },
+    "app.48f892b7410f36c2.hot-update.json": {
+      "name": "app.48f892b7410f36c2.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.48f892b7410f36c2.hot-update.json",
+      "publicPath": "/app.48f892b7410f36c2.hot-update.json"
+    },
+    "app.4bc6f79ac9389ebe.hot-update.js": {
+      "name": "app.4bc6f79ac9389ebe.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.4bc6f79ac9389ebe.hot-update.js",
+      "publicPath": "/app.4bc6f79ac9389ebe.hot-update.js"
+    },
+    "app.4bc6f79ac9389ebe.hot-update.json": {
+      "name": "app.4bc6f79ac9389ebe.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.4bc6f79ac9389ebe.hot-update.json",
+      "publicPath": "/app.4bc6f79ac9389ebe.hot-update.json"
+    },
+    "app.4ce35de06f02f34a.hot-update.js": {
+      "name": "app.4ce35de06f02f34a.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.4ce35de06f02f34a.hot-update.js",
+      "publicPath": "/app.4ce35de06f02f34a.hot-update.js"
+    },
+    "app.4ce35de06f02f34a.hot-update.json": {
+      "name": "app.4ce35de06f02f34a.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.4ce35de06f02f34a.hot-update.json",
+      "publicPath": "/app.4ce35de06f02f34a.hot-update.json"
+    },
+    "app.534505ea6d5a405a.hot-update.js": {
+      "name": "app.534505ea6d5a405a.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.534505ea6d5a405a.hot-update.js",
+      "publicPath": "/app.534505ea6d5a405a.hot-update.js"
+    },
+    "app.534505ea6d5a405a.hot-update.json": {
+      "name": "app.534505ea6d5a405a.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.534505ea6d5a405a.hot-update.json",
+      "publicPath": "/app.534505ea6d5a405a.hot-update.json"
+    },
+    "app.5d1189d7760b6da5.hot-update.js": {
+      "name": "app.5d1189d7760b6da5.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.5d1189d7760b6da5.hot-update.js",
+      "publicPath": "/app.5d1189d7760b6da5.hot-update.js"
+    },
+    "app.5d1189d7760b6da5.hot-update.json": {
+      "name": "app.5d1189d7760b6da5.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.5d1189d7760b6da5.hot-update.json",
+      "publicPath": "/app.5d1189d7760b6da5.hot-update.json"
+    },
+    "app.7e7d64346be326ee.hot-update.js": {
+      "name": "app.7e7d64346be326ee.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.7e7d64346be326ee.hot-update.js",
+      "publicPath": "/app.7e7d64346be326ee.hot-update.js"
+    },
+    "app.7e7d64346be326ee.hot-update.json": {
+      "name": "app.7e7d64346be326ee.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.7e7d64346be326ee.hot-update.json",
+      "publicPath": "/app.7e7d64346be326ee.hot-update.json"
+    },
+    "app.a0b691b5ce461eba.hot-update.js": {
+      "name": "app.a0b691b5ce461eba.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.a0b691b5ce461eba.hot-update.js",
+      "publicPath": "/app.a0b691b5ce461eba.hot-update.js"
+    },
+    "app.a0b691b5ce461eba.hot-update.json": {
+      "name": "app.a0b691b5ce461eba.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.a0b691b5ce461eba.hot-update.json",
+      "publicPath": "/app.a0b691b5ce461eba.hot-update.json"
+    },
+    "app.bb27c53fd02c6f04.hot-update.js": {
+      "name": "app.bb27c53fd02c6f04.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.bb27c53fd02c6f04.hot-update.js",
+      "publicPath": "/app.bb27c53fd02c6f04.hot-update.js"
+    },
+    "app.bb27c53fd02c6f04.hot-update.json": {
+      "name": "app.bb27c53fd02c6f04.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.bb27c53fd02c6f04.hot-update.json",
+      "publicPath": "/app.bb27c53fd02c6f04.hot-update.json"
+    },
+    "app.ce671af062d20342.hot-update.js": {
+      "name": "app.ce671af062d20342.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.ce671af062d20342.hot-update.js",
+      "publicPath": "/app.ce671af062d20342.hot-update.js"
+    },
+    "app.ce671af062d20342.hot-update.json": {
+      "name": "app.ce671af062d20342.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.ce671af062d20342.hot-update.json",
+      "publicPath": "/app.ce671af062d20342.hot-update.json"
+    },
+    "app.d60e6dc99e45492b.hot-update.js": {
+      "name": "app.d60e6dc99e45492b.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.d60e6dc99e45492b.hot-update.js",
+      "publicPath": "/app.d60e6dc99e45492b.hot-update.js"
+    },
+    "app.d60e6dc99e45492b.hot-update.json": {
+      "name": "app.d60e6dc99e45492b.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.d60e6dc99e45492b.hot-update.json",
+      "publicPath": "/app.d60e6dc99e45492b.hot-update.json"
+    },
+    "app.db5295067eb64792.hot-update.js": {
+      "name": "app.db5295067eb64792.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.db5295067eb64792.hot-update.js",
+      "publicPath": "/app.db5295067eb64792.hot-update.js"
+    },
+    "app.db5295067eb64792.hot-update.json": {
+      "name": "app.db5295067eb64792.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.db5295067eb64792.hot-update.json",
+      "publicPath": "/app.db5295067eb64792.hot-update.json"
+    },
+    "app.e7dda756c7e832c5.hot-update.js": {
+      "name": "app.e7dda756c7e832c5.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.e7dda756c7e832c5.hot-update.js",
+      "publicPath": "/app.e7dda756c7e832c5.hot-update.js"
+    },
+    "app.e7dda756c7e832c5.hot-update.json": {
+      "name": "app.e7dda756c7e832c5.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.e7dda756c7e832c5.hot-update.json",
+      "publicPath": "/app.e7dda756c7e832c5.hot-update.json"
+    },
+    "app.e979d1ed00379c83.hot-update.js": {
+      "name": "app.e979d1ed00379c83.hot-update.js",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.e979d1ed00379c83.hot-update.js",
+      "publicPath": "/app.e979d1ed00379c83.hot-update.js"
+    },
+    "app.e979d1ed00379c83.hot-update.json": {
+      "name": "app.e979d1ed00379c83.hot-update.json",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\app.e979d1ed00379c83.hot-update.json",
+      "publicPath": "/app.e979d1ed00379c83.hot-update.json"
+    },
     "favicon.ico": {
       "name": "favicon.ico",
-      "path": "C:\\Projects\\Python\\projects\\forum\\forum\\static\\dist\\favicon.ico",
-      "publicPath": "http://localhost:8080/favicon.ico",
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\favicon.ico",
+      "publicPath": "/favicon.ico",
       "sourceFilename": "public/favicon.ico"
     },
     "index.html": {
       "name": "index.html",
-      "path": "C:\\Projects\\Python\\projects\\forum\\forum\\static\\dist\\index.html",
-      "publicPath": "http://localhost:8080/index.html"
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\index.html",
+      "publicPath": "/index.html"
     },
     "js/app.js": {
       "name": "js/app.js",
-      "path": "C:\\Projects\\Python\\projects\\forum\\forum\\static\\dist\\js\\app.js",
-      "publicPath": "http://localhost:8080/js/app.js"
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\js\\app.js",
+      "publicPath": "/js/app.js"
     },
     "js/chunk-vendors.js": {
       "name": "js/chunk-vendors.js",
-      "path": "C:\\Projects\\Python\\projects\\forum\\forum\\static\\dist\\js\\chunk-vendors.js",
-      "publicPath": "http://localhost:8080/js/chunk-vendors.js"
+      "path": "E:\\LearnWeb\\social-app\\Forum\\forum\\static\\dist\\js\\chunk-vendors.js",
+      "publicPath": "/js/chunk-vendors.js"
     }
   },
   "chunks": {
     "app": [
       "js/chunk-vendors.js",
-      "js/app.js"
+      "js/app.js",
+      "app.e7dda756c7e832c5.hot-update.js"
     ]
   },
-  "publicPath": "http://localhost:8080/"
+  "publicPath": "/"
 }
